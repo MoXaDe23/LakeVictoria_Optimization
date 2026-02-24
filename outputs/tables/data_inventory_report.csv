@@ -1,0 +1,20 @@
+dataset,start,end,n_rows,n_cols,missing_count,missing_pct,inferred_frequency,units
+lake_levels_jinja,1948-01-01,2021-04-27,26009,1,0,0.0,daily,m (as provided; column name includes '/day' but values are levels)
+victoria_nile_outflows,1956-01-01,2022-12-31,24472,1,3020,12.34,daily,m3/s
+tributary_Nyando,1965-01-01,1993-12-01,348,1,0,0.0,monthly,m3/s (monthly series)
+tributary_Yala,1971-01-01,1990-11-01,239,1,0,0.0,monthly,m3/s (monthly series)
+tributary_Nzoia,1976-01-01,1989-12-01,168,1,0,0.0,monthly,m3/s (monthly series)
+tributary_Katonga,1998-01-01,2008-12-01,132,1,0,0.0,monthly,m3/s (monthly series)
+chirps_rainfall,2001-01-01,2023-12-31,8400,1,0,0.0,daily,mm/day
+lake_evaporation,2001-01-01,2023-12-30,8399,1,0,0.0,daily,mm/day
+tributary_Rwizi,2001-01-01,2010-12-01,119,1,0,0.0,monthly (approx),m3/s (monthly series)
+tributary_Sio_Malaba,2002-01-01,2018-12-01,204,1,0,0.0,monthly,m3/s (monthly series)
+tributary_Awach,2003-01-01,2023-12-01,252,1,0,0.0,monthly,m3/s (monthly series)
+tributary_Grumeti,2003-01-01,2017-12-01,180,1,0,0.0,monthly,m3/s (monthly series)
+tributary_Kagera,2003-01-01,2018-12-01,192,1,0,0.0,monthly,m3/s (monthly series)
+tributary_Magogo,2003-01-01,2023-12-01,252,1,0,0.0,monthly,m3/s (monthly series)
+tributary_Mbalangeti,2003-01-01,2014-12-01,144,1,0,0.0,monthly,m3/s (monthly series)
+tributary_Migori,2003-01-01,2023-12-01,252,1,0,0.0,monthly,m3/s (monthly series)
+tributary_Mori,2003-01-01,2023-12-01,252,1,0,0.0,monthly,m3/s (monthly series)
+tributary_Simiyu,2003-01-01,2020-12-01,216,1,0,0.0,monthly,m3/s (monthly series)
+tributary_Sondu,2003-01-01,2023-12-01,252,1,0,0.0,monthly,m3/s (monthly series)

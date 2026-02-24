@@ -1,0 +1,16 @@
+tributary,method,rmse,n_train,n_pred,overlap_months,trainable_regression
+Nyando,climatology_scaled_by_rain,,0,244,0,False
+Nzoia,climatology_scaled_by_rain,,0,244,0,False
+Yala,climatology_scaled_by_rain,,0,244,0,False
+Awach,ridge_rain_seasonality_log1p,2.3919970553999748,220,244,220,True
+Magogo,ridge_rain_seasonality_log1p,2.305614548879011,220,244,220,True
+Migori,ridge_rain_seasonality_log1p,35.40730950263723,220,244,220,True
+Mori,ridge_rain_seasonality_log1p,2.238314179795695,220,244,220,True
+Sondu,ridge_rain_seasonality_log1p,22.37776833615684,220,244,220,True
+Simiyu,ridge_rain_seasonality_log1p,6.888441359468791,216,244,216,True
+Sio_Malaba,ridge_rain_seasonality_log1p,4.36246970346764,204,244,204,True
+Kagera,ridge_rain_seasonality_log1p,148.26831606189484,192,244,192,True
+Grumeti,ridge_rain_seasonality_log1p,3.324434790843679,180,244,180,True
+Mbalangeti,ridge_rain_seasonality_log1p,2.4286181923312014,144,244,144,True
+Rwizi,ridge_rain_seasonality_log1p,9.416193853154487,119,244,119,True
+Katonga,ridge_rain_seasonality_log1p,2.9400935089201643,96,244,96,True
