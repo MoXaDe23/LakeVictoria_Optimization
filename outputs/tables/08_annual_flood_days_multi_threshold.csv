@@ -1,0 +1,190 @@
+flood_days,scenario,threshold_m,year
+0,Observed,12.5,2001
+0,Observed,12.5,2002
+0,Observed,12.5,2003
+0,Observed,12.5,2004
+0,Observed,12.5,2005
+0,Observed,12.5,2006
+0,Observed,12.5,2007
+0,Observed,12.5,2008
+0,Observed,12.5,2009
+0,Observed,12.5,2010
+0,Observed,12.5,2011
+0,Observed,12.5,2012
+0,Observed,12.5,2013
+0,Observed,12.5,2014
+0,Observed,12.5,2015
+78,Observed,12.5,2016
+0,Observed,12.5,2017
+0,Observed,12.5,2018
+21,Observed,12.5,2019
+366,Observed,12.5,2020
+117,Observed,12.5,2021
+0,Baseline (Agreed Curve),12.5,2001
+0,Baseline (Agreed Curve),12.5,2002
+0,Baseline (Agreed Curve),12.5,2003
+0,Baseline (Agreed Curve),12.5,2004
+0,Baseline (Agreed Curve),12.5,2005
+0,Baseline (Agreed Curve),12.5,2006
+0,Baseline (Agreed Curve),12.5,2007
+0,Baseline (Agreed Curve),12.5,2008
+0,Baseline (Agreed Curve),12.5,2009
+0,Baseline (Agreed Curve),12.5,2010
+0,Baseline (Agreed Curve),12.5,2011
+0,Baseline (Agreed Curve),12.5,2012
+0,Baseline (Agreed Curve),12.5,2013
+0,Baseline (Agreed Curve),12.5,2014
+0,Baseline (Agreed Curve),12.5,2015
+0,Baseline (Agreed Curve),12.5,2016
+0,Baseline (Agreed Curve),12.5,2017
+0,Baseline (Agreed Curve),12.5,2018
+0,Baseline (Agreed Curve),12.5,2019
+0,Baseline (Agreed Curve),12.5,2020
+0,Baseline (Agreed Curve),12.5,2021
+0,Optimized Rule,12.5,2001
+0,Optimized Rule,12.5,2002
+0,Optimized Rule,12.5,2003
+0,Optimized Rule,12.5,2004
+0,Optimized Rule,12.5,2005
+0,Optimized Rule,12.5,2006
+0,Optimized Rule,12.5,2007
+0,Optimized Rule,12.5,2008
+0,Optimized Rule,12.5,2009
+0,Optimized Rule,12.5,2010
+0,Optimized Rule,12.5,2011
+0,Optimized Rule,12.5,2012
+0,Optimized Rule,12.5,2013
+0,Optimized Rule,12.5,2014
+0,Optimized Rule,12.5,2015
+0,Optimized Rule,12.5,2016
+0,Optimized Rule,12.5,2017
+0,Optimized Rule,12.5,2018
+29,Optimized Rule,12.5,2019
+366,Optimized Rule,12.5,2020
+117,Optimized Rule,12.5,2021
+0,Observed,12.8,2001
+0,Observed,12.8,2002
+0,Observed,12.8,2003
+0,Observed,12.8,2004
+0,Observed,12.8,2005
+0,Observed,12.8,2006
+0,Observed,12.8,2007
+0,Observed,12.8,2008
+0,Observed,12.8,2009
+0,Observed,12.8,2010
+0,Observed,12.8,2011
+0,Observed,12.8,2012
+0,Observed,12.8,2013
+0,Observed,12.8,2014
+0,Observed,12.8,2015
+0,Observed,12.8,2016
+0,Observed,12.8,2017
+0,Observed,12.8,2018
+0,Observed,12.8,2019
+335,Observed,12.8,2020
+117,Observed,12.8,2021
+0,Baseline (Agreed Curve),12.8,2001
+0,Baseline (Agreed Curve),12.8,2002
+0,Baseline (Agreed Curve),12.8,2003
+0,Baseline (Agreed Curve),12.8,2004
+0,Baseline (Agreed Curve),12.8,2005
+0,Baseline (Agreed Curve),12.8,2006
+0,Baseline (Agreed Curve),12.8,2007
+0,Baseline (Agreed Curve),12.8,2008
+0,Baseline (Agreed Curve),12.8,2009
+0,Baseline (Agreed Curve),12.8,2010
+0,Baseline (Agreed Curve),12.8,2011
+0,Baseline (Agreed Curve),12.8,2012
+0,Baseline (Agreed Curve),12.8,2013
+0,Baseline (Agreed Curve),12.8,2014
+0,Baseline (Agreed Curve),12.8,2015
+0,Baseline (Agreed Curve),12.8,2016
+0,Baseline (Agreed Curve),12.8,2017
+0,Baseline (Agreed Curve),12.8,2018
+0,Baseline (Agreed Curve),12.8,2019
+0,Baseline (Agreed Curve),12.8,2020
+0,Baseline (Agreed Curve),12.8,2021
+0,Optimized Rule,12.8,2001
+0,Optimized Rule,12.8,2002
+0,Optimized Rule,12.8,2003
+0,Optimized Rule,12.8,2004
+0,Optimized Rule,12.8,2005
+0,Optimized Rule,12.8,2006
+0,Optimized Rule,12.8,2007
+0,Optimized Rule,12.8,2008
+0,Optimized Rule,12.8,2009
+0,Optimized Rule,12.8,2010
+0,Optimized Rule,12.8,2011
+0,Optimized Rule,12.8,2012
+0,Optimized Rule,12.8,2013
+0,Optimized Rule,12.8,2014
+0,Optimized Rule,12.8,2015
+0,Optimized Rule,12.8,2016
+0,Optimized Rule,12.8,2017
+0,Optimized Rule,12.8,2018
+0,Optimized Rule,12.8,2019
+272,Optimized Rule,12.8,2020
+117,Optimized Rule,12.8,2021
+0,Observed,13.0,2001
+0,Observed,13.0,2002
+0,Observed,13.0,2003
+0,Observed,13.0,2004
+0,Observed,13.0,2005
+0,Observed,13.0,2006
+0,Observed,13.0,2007
+0,Observed,13.0,2008
+0,Observed,13.0,2009
+0,Observed,13.0,2010
+0,Observed,13.0,2011
+0,Observed,13.0,2012
+0,Observed,13.0,2013
+0,Observed,13.0,2014
+0,Observed,13.0,2015
+0,Observed,13.0,2016
+0,Observed,13.0,2017
+0,Observed,13.0,2018
+0,Observed,13.0,2019
+266,Observed,13.0,2020
+117,Observed,13.0,2021
+0,Baseline (Agreed Curve),13.0,2001
+0,Baseline (Agreed Curve),13.0,2002
+0,Baseline (Agreed Curve),13.0,2003
+0,Baseline (Agreed Curve),13.0,2004
+0,Baseline (Agreed Curve),13.0,2005
+0,Baseline (Agreed Curve),13.0,2006
+0,Baseline (Agreed Curve),13.0,2007
+0,Baseline (Agreed Curve),13.0,2008
+0,Baseline (Agreed Curve),13.0,2009
+0,Baseline (Agreed Curve),13.0,2010
+0,Baseline (Agreed Curve),13.0,2011
+0,Baseline (Agreed Curve),13.0,2012
+0,Baseline (Agreed Curve),13.0,2013
+0,Baseline (Agreed Curve),13.0,2014
+0,Baseline (Agreed Curve),13.0,2015
+0,Baseline (Agreed Curve),13.0,2016
+0,Baseline (Agreed Curve),13.0,2017
+0,Baseline (Agreed Curve),13.0,2018
+0,Baseline (Agreed Curve),13.0,2019
+0,Baseline (Agreed Curve),13.0,2020
+0,Baseline (Agreed Curve),13.0,2021
+0,Optimized Rule,13.0,2001
+0,Optimized Rule,13.0,2002
+0,Optimized Rule,13.0,2003
+0,Optimized Rule,13.0,2004
+0,Optimized Rule,13.0,2005
+0,Optimized Rule,13.0,2006
+0,Optimized Rule,13.0,2007
+0,Optimized Rule,13.0,2008
+0,Optimized Rule,13.0,2009
+0,Optimized Rule,13.0,2010
+0,Optimized Rule,13.0,2011
+0,Optimized Rule,13.0,2012
+0,Optimized Rule,13.0,2013
+0,Optimized Rule,13.0,2014
+0,Optimized Rule,13.0,2015
+0,Optimized Rule,13.0,2016
+0,Optimized Rule,13.0,2017
+0,Optimized Rule,13.0,2018
+0,Optimized Rule,13.0,2019
+212,Optimized Rule,13.0,2020
+117,Optimized Rule,13.0,2021

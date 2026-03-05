@@ -1,0 +1,3 @@
+scenario,days_above_12p8,days_below_10p5,max_level_m,min_level_m,mean_level_m
+Observed,452,52,13.47,10.41,11.695322015629209
+Optimized,389,0,13.300270016353933,11.0338592050384,11.821867316295238
