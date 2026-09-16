@@ -1,0 +1,4 @@
+scenario,low_threshold_m,high_threshold_m,days_below_low_threshold,days_above_high_threshold,min_level_m,max_level_m,mean_level_m
+Baseline (Agreed Curve),11.15,12.15,4039,0,9.349340742802589,12.048807008100802,10.90492325609812
+Optimized Rule,11.15,12.15,208,502,11.00560128064155,12.714005335909077,11.661794587693603
+Observed,11.15,12.15,1113,1170,10.41,13.47,11.695277628032343
