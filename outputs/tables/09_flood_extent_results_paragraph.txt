@@ -1,0 +1,19 @@
+
+Raster-based inundation analysis using the surrounding-land DEM
+was applied to evaluate spatial flood extent under
+observed, Agreed Curve, and optimized Lake Victoria regulation
+scenarios.
+
+All reported flooded areas represent net flooded area around the lake,
+computed after subtracting the official Lake Victoria surface area of
+68,800 km2 from the total inundated area implied by each water level.
+
+The peak flood year (2020) produced the largest inundation
+extent under the observed scenario. The optimized rule curve reduced
+net flooded area relative to observed conditions while avoiding the
+excessive drawdown associated with the Agreed Curve counterfactual.
+
+These spatial flood extent results reinforce the time-series flood
+metrics presented in Notebook 08, demonstrating that the optimized
+release policy reduces flood risk exposure while maintaining realistic
+lake level dynamics.

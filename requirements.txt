@@ -5,3 +5,12 @@ scipy
 scikit-learn
 openpyxl
 pymoo
+pathlib
+rasterio
+IPython.display
+display
+pyplot
+dataclasses
+warnings
+typing
+future 

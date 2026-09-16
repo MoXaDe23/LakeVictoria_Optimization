@@ -1,0 +1,3 @@
+scenario,peak_year,water_level_m_asl,total_flooded_area_km2,lake_area_reference_km2,reference_mask_area_from_dem_km2,net_flooded_land_km2
+Observed Historical Peak,2020,1136.32,69220.9730106271,68800.0,68455.7443553312,420.97301062710176
+Optimized Rule,2020,1135.5453649619806,68845.45363374452,68800.0,68455.7443553312,45.45363374451699
