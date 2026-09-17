@@ -2,3 +2,7 @@ __pycache__/
 *.py[cod]
 .ipynb_checkpoints/
 .venv/
+
+.pytest_cache/
+outputs/observatory/
+*.egg-info/

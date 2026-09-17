@@ -1,5 +1,15 @@
 # LakeVictoria_Optimization
 
+## Interactive Policy Observatory
+
+Double-click **Open-Observatory.cmd** to launch the new local dashboard, then open
+**http://localhost:5006/app** in Chrome or another browser on this computer.
+See [dashboard setup and methods](dashboard/README.md) for installation, source
+definitions, exploratory simulations, and verification commands.
+
+The dashboard recalculates from the current daily files. Some historical results
+below refer to older exports and differ from the current saved optimized series.
+
 ## Optimized Dam Outflow Policy for Lake Victoria Flood Risk Reduction
 
 This repository presents the methodology and results for developing and evaluating an optimized dam outflow policy for Lake Victoria. The primary objective is to reduce flood risk around the lake by improving upon historical dam operations.

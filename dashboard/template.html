@@ -1,0 +1,22 @@
+{% extends base %}
+{% block title %}Lake Victoria · Policy Observatory{% endblock %}
+{% block postamble %}
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<style>{{ app_css }}</style>
+{% endblock %}
+{% block contents %}
+<div class="shell">
+ <aside class="sidebar" aria-label="Main navigation">
+  <div class="mobile-brand"><div class="brand"><svg viewBox="0 0 48 48" fill="none" aria-hidden="true"><path d="M6 17c8-14 28-14 36 0M5 24c9-15 29-15 38 0M6 31c8-14 28-14 36 0M12 37c7-10 18-10 25 0" stroke="currentColor" stroke-width="2.2" stroke-linecap="round"/></svg><div><strong>Lake Victoria</strong><small>OBSERVATORY</small></div></div><button class="mobile-menu" aria-label="Toggle navigation" aria-expanded="false" onclick="const expanded=this.getAttribute('aria-expanded')==='true';this.setAttribute('aria-expanded',String(!expanded));document.querySelector('.side-nav').classList.toggle('is-open',!expanded)">Menu ☰</button></div>
+  <div class="side-nav" onclick="if(window.innerWidth<=760 && event.composedPath().some(node=>node.tagName==='BUTTON')){this.classList.remove('is-open');document.querySelector('.mobile-menu').setAttribute('aria-expanded','false');window.scrollTo({top:0,behavior:'smooth'})}">
+  <div class="nav-label">EXPLORE THE LAKE</div>
+  {{ embed(roots.navigation) }}
+  </div>
+  <div class="sidebar-bottom"><div class="basin-tag">ONE LAKE. THREE NATIONS.</div><p>Kenya · Tanzania · Uganda<br>Shared water. Informed decisions.</p><div class="side-foot"><span>RESEARCH EDITION</span><span>01 / 2026</span></div></div>
+ </aside>
+ <div class="workspace">
+  <header class="topbar"><div class="breadcrumb">Research workspace &nbsp; / &nbsp; <b>Lake Victoria</b></div><div class="status"><i></i> HISTORICAL DATA · 2001–2021</div></header>
+  <main class="workspace-main">{{ embed(roots.main) }}<footer class="footer"><span>Lake Victoria Optimization &nbsp; / &nbsp; Policy Observatory</span><span>Historical scenarios · Exploratory research</span></footer></main>
+ </div>
+</div>
+{% endblock %}
